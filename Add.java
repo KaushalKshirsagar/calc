@@ -11,6 +11,9 @@ public class Add{
 		int addition = n1 + n2;
 		System.out.println("Addition = ", addition);
 
+		int subtraction = n1 - n2;
+                System.out.println("Subtraction = ", subtraction);
+
 		sc.close();
 	}
 }
